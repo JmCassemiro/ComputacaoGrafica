@@ -1,6 +1,3 @@
-Perfeito! Aqui está a versão corrigida e **com os passos 2, 3 e 4 no mesmo formato**, tudo padronizado num único bloco em markdown, pronto para copiar e colar:
-
-````markdown
 # 🎬 Projeto 2 - Manipulação de Vídeo com Python
 
 Este projeto tem como objetivo explorar técnicas de manipulação de vídeos utilizando a biblioteca `moviepy`. Através de diferentes etapas, são aplicadas transformações no vídeo original, como inversão de imagem, redução de volume, cortes e reordenação de clipes.
