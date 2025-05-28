@@ -49,7 +49,7 @@ O vídeo manipulado é salvo como `videoprojeto2_final.mp4`, contendo todas as t
 
    ```bash
    git clone https://github.com/JmCassemiro/ComputacaoGrafica
-````
+
 
 2. **Acesse o diretório do projeto, instale as dependências e execute o script**
    Execute os seguintes comandos no terminal:
@@ -62,11 +62,6 @@ O vídeo manipulado é salvo como `videoprojeto2_final.mp4`, contendo todas as t
 
 > ⚠️ **Observação:** A versão `1.0.3` do `moviepy` é recomendada para evitar problemas de compatibilidade.
 
----
 
-📧 Qualquer dúvida, sinta-se à vontade para entrar em contato!
 
-```
 
-Se quiser esse README com emojis removidos ou traduzido para o inglês, é só avisar.
-```
